@@ -1,0 +1,25 @@
+.table tbody tr td{
+	vertical-align: middle;
+}
+.table.dataTable thead .sorting_desc {
+    background:  none !important;
+}
+table.dataTable thead .sorting_asc{background:  none !important;}
+table.dataTable thead .sorting {
+    background:  none !important;
+}
+.search{
+    padding-bottom: 30px;
+}
+a.btn.btn-primary {
+    margin-top: 13px;
+    margin-left: 14px;
+}
+h1 {
+    text-transform: uppercase;
+    color: #3c8dbc;
+    border-bottom: solid 1px;
+    padding-bottom: 18px;
+    margin-top: 5px;
+    font-size: 24px !important;
+}
